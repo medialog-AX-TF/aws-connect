@@ -1,0 +1,5 @@
+{
+  "Name": "SupportQueue",
+  "Description": "Queue for technical support inquiries.",
+  "HoursOfOperation": "arn:aws:connect:..."
+} 

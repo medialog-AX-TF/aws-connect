@@ -1,0 +1,7 @@
+{
+  "PhoneNumber": "+821000000000",
+  "CountryCode": "KR",
+  "Type": "DID",
+  "Description": "Main support line",
+  "TargetArn": "arn:aws:connect:..."
+} 

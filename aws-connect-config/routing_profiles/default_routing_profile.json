@@ -1,0 +1,11 @@
+{
+  "Name": "DefaultRoutingProfile",
+  "Description": "Default routing profile for all agents",
+  "DefaultOutboundQueue": "arn:aws:connect:...",
+  "MediaConcurrencies": [
+    {
+      "Channel": "VOICE",
+      "Concurrency": 1
+    }
+  ]
+} 

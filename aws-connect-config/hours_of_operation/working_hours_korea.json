@@ -1,0 +1,32 @@
+{
+  "Name": "WorkingHoursKorea",
+  "Description": "Working hours for the Korea office (9 AM to 6 PM KST, Mon-Fri)",
+  "TimeZone": "Asia/Seoul",
+  "Config": [
+    {
+      "Day": "MONDAY",
+      "StartTime": { "Hours": 9, "Minutes": 0 },
+      "EndTime": { "Hours": 18, "Minutes": 0 }
+    },
+    {
+      "Day": "TUESDAY",
+      "StartTime": { "Hours": 9, "Minutes": 0 },
+      "EndTime": { "Hours": 18, "Minutes": 0 }
+    },
+    {
+      "Day": "WEDNESDAY",
+      "StartTime": { "Hours": 9, "Minutes": 0 },
+      "EndTime": { "Hours": 18, "Minutes": 0 }
+    },
+    {
+      "Day": "THURSDAY",
+      "StartTime": { "Hours": 9, "Minutes": 0 },
+      "EndTime": { "Hours": 18, "Minutes": 0 }
+    },
+    {
+      "Day": "FRIDAY",
+      "StartTime": { "Hours": 9, "Minutes": 0 },
+      "EndTime": { "Hours": 18, "Minutes": 0 }
+    }
+  ]
+} 

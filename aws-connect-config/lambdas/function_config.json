@@ -1,0 +1,10 @@
+[
+  {
+    "FunctionName": "dynamoDBWriter",
+    "FunctionArn": "arn:aws:lambda:..."
+  },
+  {
+    "FunctionName": "externalApiCaller",
+    "FunctionArn": "arn:aws:lambda:..."
+  }
+] 
