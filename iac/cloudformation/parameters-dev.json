@@ -1,0 +1,6 @@
+[
+  {
+    "ParameterKey": "ConnectInstanceArn",
+    "ParameterValue": "arn:aws:connect:YOUR_REGION:YOUR_ACCOUNT_ID:instance/YOUR_INSTANCE_ID"
+  }
+] 
